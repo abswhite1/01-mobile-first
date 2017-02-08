@@ -12,10 +12,11 @@
 .icon-menu {
   font-size: 2.5em;
   float: right;
+  margin: 1%;
 }
 
 .main-nav {
-  padding: 0.1em;
+  /*padding: 0.0em;*/
 }
 
 .main-nav ul {
@@ -33,7 +34,7 @@
   margin-right: .4em;
   font-size: 1.5em;
   padding: .5em .2em;
-  border-bottom: 1px solid #ccc;
+  /*border-bottom: 1px solid #ccc;*/
 }
 
 #filters {
