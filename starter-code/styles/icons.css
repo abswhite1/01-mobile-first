@@ -41,6 +41,10 @@
 .icon-menu:before {
 	content: "\e902";
 }
+
+/*.icon-menu:before {
+  content: "\e9bd";
+}*/
 .icon-link:before {
 	content: "\e903";
 }
